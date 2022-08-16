@@ -1,3 +1,5 @@
+<h1> BUG TROUVÉ ! UN CORRECTIF VA ARRIVER ! </h1>
+
 <h1> ReplaceDrapeauxUS en FR ! </h1>
 
 <hp> Bonjour à tous je vous présente mon mapping qui remplace tout les drapeaux US en FR ! 🎀 <br>
